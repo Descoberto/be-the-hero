@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Be the Hero é um projeto que facilita a vida das ONGs e voluntários, nossos protagonistas, com o unico propósito de salvarem o dia de cada ser nesta terra, o usuário pode visualizar casos publicados por ONGs e entrar em contato com elas via E-mail ou WhatsApp, o unico trabalho da ONG fica em se cadastrar, e compartilhar seu pedido de ajuda para que seja visualizado por um herói.
 <p align="center">
-  <img alt="Pages" src="pages/logon.png" width="50%" height="50%">
+  <img alt="Pages" src="pages/logon.png">
 </p>
 
 <p align="center">
@@ -46,11 +46,11 @@ O Be the Hero é um projeto que facilita a vida das ONGs e voluntários, nossos 
 </p>
 
 <p align="center">
-  <img alt="Pages" src="pages/splash.png" width="50%" height="50%">
+  <img alt="Pages" src="pages/splash.jpg" width="50%" height="50%">
 </p>
 
 <p align="center">
-  <img alt="Pages" src="pages/incidents.png" width="50%" height="50%">
+  <img alt="Pages" src="pages/incidents.jpg" width="50%" height="50%">
 </p>
 
 <p align="center">
