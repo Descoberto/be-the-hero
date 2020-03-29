@@ -46,11 +46,11 @@ O Be the Hero é um projeto que facilita a vida das ONGs e voluntários, nossos 
 </p>
 
 <p align="center">
-  <img alt="Pages" src="pages/splash.jpg">
+  <img alt="Pages" src="pages/splash.jpg" width="50%" height="50%">
 </p>
 
 <p align="center">
-  <img alt="Pages" src="pages/incidents.jpg">
+  <img alt="Pages" src="pages/incidents.jpg" width="50%" height="50%">
 </p>
 
 <p align="center">
